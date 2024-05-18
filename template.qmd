@@ -1,0 +1,5 @@
+---
+title: Faviverse docs template
+---
+
+This is just to test.
